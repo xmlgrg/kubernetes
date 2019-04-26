@@ -1,7 +1,7 @@
 #! /usr/bin/env python
 # -*- coding: utf-8 -*-
-# __author__ = "w.z"
-# Date: 2019/3/4
+# __author__ = "limaomao"
+
 
 """
 版本：V1
@@ -13,8 +13,8 @@ TODO：按照team来发送消息到不同的钉钉组
 TODO：transform 代码优化
 ---
 版本： V3.7
-功能： 琪祥修改 nochangeme
-镜像： reg-bj.xiaoneng.cn/k8s/webhook_dingding:v3.7
+功能： nochangeme
+镜像： webhook_dingding:v3.7
 ---
 版本： V3.8
 功能： 修改报警收敛，alertmanager的报警信息有分组，抑制静默和延时功能
